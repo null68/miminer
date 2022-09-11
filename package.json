@@ -1,0 +1,19 @@
+{
+  "name": "miminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.1",
+    "eris": "^0.17.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.5.2"
+  }
+}
